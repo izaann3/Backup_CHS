@@ -1,4 +1,9 @@
 #!/bin/bash
+#--------------------------Salida de los logs por si da error--------------------------
+exec > /home/client/Escritorio/logs/backup/backup_log.txt 2>&1
+echo "Script iniciado a las $(date)"
+
+#--------------------------Path de Github para que cron lo reconozca--------------------------
 PATH=/usr/bin:/usr/local/bin:/bin:/usr/sbin:/sbin
 
 #--------------------------copia incremental--------------------------
