@@ -1,4 +1,5 @@
 #!/bin/bash
+PATH=/usr/bin:/usr/local/bin:/bin:/usr/sbin:/sbin
 
 #--------------------------copia incremental--------------------------
 BACKUP_DIR="/home/client/Escritorio/backups"
