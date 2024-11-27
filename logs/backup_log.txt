@@ -1,0 +1,8 @@
+Script iniciado a las mié 27 nov 2024 15:38:17 CET
+Copia incremental realizada con éxito.
+[main 4a7c11a] Backup automático: 2024-11-27 15:38:17
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 Proyecto_2024-11-27_15-38-17.tar.gz
+To github.com:izaann3/Backup_CHS.git
+   073205b..4a7c11a  main -> main
+Backup completo y subido exitosamente a GitHub.
